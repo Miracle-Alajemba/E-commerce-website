@@ -1,0 +1,14 @@
+{
+  "name": "e-commerce-website",
+  "version": "1.0.0",
+  "description": "A simple E-commerce website for mobile phones.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node scripts.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
